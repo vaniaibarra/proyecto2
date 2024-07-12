@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#encabezado{
+    background-image: url("../img/encabezado.jpg");
+    background-size:cover;
+    height: 350px;
+    color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(152, 139, 123);
+    color: aliceblue;
+    font-weight: bolder;
+    height: 70px;
+}
+img{
+    width: 40%;
+}
+.imagenTabla{
+    text-align: right;
+    width: 60%;
+    padding: 10px;
+}
